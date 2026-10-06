@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy
+scipy
+tqdm
+# step 1-2 only
+openai>=1.0        # GPT-4o via Azure
+torch>=2.1
+transformers>=4.50  # MedGemma needs a recent release
+accelerate
